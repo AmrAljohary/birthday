@@ -439,7 +439,7 @@ button {
   border: 1px solid #fec195;
   border-radius: 8px;
   filter: drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.2));
-  top: 20%;
+  top: 10%;
 }
 
 button:hover {
